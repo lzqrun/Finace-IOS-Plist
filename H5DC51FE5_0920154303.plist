@@ -13,6 +13,18 @@
 					<key>url</key>
 				<string>http://47.104.227.61:8001/com.shunding.cn_0920224107.ipa</string>
 				</dict>
+  <dict>
+                    <key>kind</key>
+                    <string>display-image</string>
+                    <key>url</key>
+                    <string>http://47.104.227.61:8001/logo/256x256.png</string>
+                </dict>
+                <dict>
+                    <key>kind</key>
+                    <string>full-size-image</string>
+                    <key>url</key>
+                    <string>http://47.104.227.61:8001/logo/58x58.png</string>
+                </dict>
 			</array>
 			<key>metadata</key>
 			<dict>
