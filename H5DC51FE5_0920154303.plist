@@ -22,8 +22,6 @@
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
-<key>releaseNotes</key>
-                <string>OTA</string>
 				<key>title</key>
 				<string>OTA_TITLE</string>
 			</dict>
