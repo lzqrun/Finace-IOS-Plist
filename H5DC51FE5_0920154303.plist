@@ -20,9 +20,9 @@
                 <key>kind</key>
                 <string>software</string>
                 <key>releaseNotes</key>
-                <string>测试OTA</string>
+                <string>OTA</string>
                 <key>title</key>
-                <string>在线安装测试</string>
+                <string>OTAONLINE</string>
             </dict>
         </dict>
     </array></dict></plist>
