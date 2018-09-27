@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"><plist version="1.0"><dict>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
     <key>items</key>
     <array>
         <dict>
@@ -19,9 +21,7 @@
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
-                <key>releaseNotes</key>
-                <string>OTA</string>
-                <key>title</key>
+               <key>title</key>
                 <string>OTAONLINE</string>
             </dict>
         </dict>
